@@ -18,11 +18,4 @@ Apart from programming, I enjoy:
 - Making 3D Models and Animations
 - Contributing to open-source projects
 
----
-
-### 🏆 Achievements
-- Advanced to the internal round of **Smart India Hackathon (SIH) 2024** 🏅
-- Achieved a spot in Round 2 of **EY Techathon 5.0**
-- Solved **500+ DSA problems** across platforms like CodeChef, Codeforces (Expert), and LeetCode
-- Selected as a **Contributor** for the GirlScript Summer of Code program
 
