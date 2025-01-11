@@ -18,4 +18,12 @@ Apart from programming, I enjoy:
 - Making 3D Models and Animations
 - Contributing to open-source projects
 
+---
+
+### 📈 **GitHub Stats**
+
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavspeaks&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavspeaks&layout=compact&theme=radical)
+
+
 
