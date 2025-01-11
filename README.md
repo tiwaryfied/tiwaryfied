@@ -22,8 +22,8 @@ Apart from programming, I enjoy:
 
 ### 📈 **GitHub Stats**
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavspeaks&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavspeaks&layout=compact&theme=radical)
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavspeakss&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavspeakss&layout=compact&theme=radical)
 
 
 
