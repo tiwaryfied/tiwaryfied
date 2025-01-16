@@ -13,13 +13,6 @@ Hi there! I'm **Abhinav Tiwari**, a passionate Full Stack Developer and Computer
 
 ---
 
-### ✍️ What I Do
-Apart from programming, I enjoy:
-- Making 3D Models and Animations
-- Contributing to open-source projects
-
----
-
 ### 📈 **GitHub Stats**
 
 ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavspeakss&show_icons=true&theme=radical)
