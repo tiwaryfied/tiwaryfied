@@ -7,7 +7,6 @@ Hi there! I'm **Abhinav Tiwari**, a passionate Full Stack Developer and Computer
 ### 💻 My Toolkit
 - **Languages**: Java, Python, C++, C
 - **Frameworks & Tools**: Spring Boot, React Native, Kafka, Kubernetes, Docker
-- **Web Development**: Full Stack Development with a focus on creating efficient and scalable solutions
 - **Databases**: MySQL
 - **Others**: Familiarity with modern development tools and environments for seamless project delivery
 
