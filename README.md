@@ -14,7 +14,7 @@ Hi there! I'm **Abhinav Tiwari**, a passionate Full Stack Developer and Computer
 
 ### 📈 **GitHub Stats**
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavspeakss&show_icons=true&theme=radical)
+![Abhinav's GitHub Stats](profile-3d-contrib/tiwaryfied-gitblock.svg)
 
 
 
