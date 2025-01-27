@@ -10,11 +10,6 @@ Hi there! I'm **Abhinav Tiwari**, a passionate Full Stack Developer and Computer
 - **Databases**: MySQL
 - **Others**: Familiarity with modern development tools and environments for seamless project delivery
 
----
-
-### 📈 **GitHub Stats**
-
-![Abhinav's GitHub Stats](profile-3d-contrib/tiwaryfied-gitblock.svg)
 
 
 
