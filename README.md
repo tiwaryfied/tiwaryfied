@@ -1,7 +1,7 @@
 # Abhinav Tiwari
 
 
-![AbhinavTiwari](https://github.com/user-attachments/assets/85498ea8-8855-439e-9f4b-4048f6f59146)
+![Abhinav Tiwari GIF](https://raw.githubusercontent.com/tiwaryfied/tiwaryfied/main/D:\Grind\Git/animation.gif)
 
 
 Hi there! I'm **Abhinav Tiwari**, a passionate Full Stack Developer and Computer Science undergraduate at VIT Bhopal University. My interests span across Web and Mobile App Development, AI-powered solutions and cloud computing.
