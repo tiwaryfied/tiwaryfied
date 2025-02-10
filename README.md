@@ -1,7 +1,8 @@
 # Abhinav Tiwari
 
 
-![GIF Preview](https://github.com/tiwaryfied/tiwaryfied/blob/main/AbhinavTiwari.gif)
+![GIF Preview](https://raw.githubusercontent.com/tiwaryfied/tiwaryfied/main/AbhinavTiwari.gif)
+
 
 
 
