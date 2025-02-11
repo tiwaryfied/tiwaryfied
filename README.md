@@ -8,6 +8,8 @@
 
 ---
 
+<div align ="centre"> 
+  
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavspeakss)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_abhinavtiwari_)
@@ -76,7 +78,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23FFCB05.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 
-
+</div>
 
 
 
