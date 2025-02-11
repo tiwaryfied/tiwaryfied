@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     # Runs every day at 18:00 UTC (Adjust if needed)
-    - cron: "0 18 * * *"
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,12 +15,15 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: "tiwaryfied"  # Change this to your GitHub username
+          USERNAME: "tiwaryfied"  
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git add -A .
+          git commit -m "generated"
+          git push
           git add -A
           git commit -m "generated"
           git push
