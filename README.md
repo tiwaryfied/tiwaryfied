@@ -1,8 +1,10 @@
 <div align="center">
-  <h1>Abhinav Tiwari</h1>
+  <h1><b></b>Abhinav Tiwari</b></h1>
   <img src="https://github.com/tiwaryfied/tiwaryfied/blob/main/AbhinavTiwari.gif" alt="GIF Preview" />
   
-  <p>Hi there! I'm <b>Abhinav Tiwari</b>, a passionate Full Stack Developer and Computer Science undergraduate at VIT Bhopal University. My interests span across Web and Mobile App Development, AI-powered solutions, and cloud computing.</p>
+  <p>Building full-stack applications, scaling distributed systems and automating DevOps workflows.</p>
+  <p>Currently learning Web3 and blockchain</p>
+  <p><b>Grinding Leetcode</b></p>
 </div>
 
 
