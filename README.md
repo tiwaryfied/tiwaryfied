@@ -5,6 +5,7 @@
   <p>Building full-stack applications, scaling distributed systems and automating DevOps workflows.</p>
   <p>Currently learning Web3 and blockchain</p>
   <p><b>Grinding Leetcode</b></p>
+  <p>I build Projects on the Trending Topics on Reddit & Twitter; My Think Tank</p>
 </div>
 
 
