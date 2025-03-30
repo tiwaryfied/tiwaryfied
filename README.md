@@ -85,6 +85,6 @@
 
 
 <div>
-<img src = "![](./profile-3d-contrib/profile-green-animate.svg)" alt = "Nahi hua kaam !">
+<img src = "./profile-3d-contrib/profile-gitblock.svg" alt = "Nahi hua kaam !">
 </div>
 
