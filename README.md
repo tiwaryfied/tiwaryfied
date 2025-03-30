@@ -31,7 +31,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚡ Frameworks & Tools
+### ⚡ Frameworks & Tools I use
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -46,7 +46,7 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-%2300ACD7.svg?style=for-the-badge&logo=websocket&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23008080.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases I have worked upon
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -76,7 +76,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔗 Web3 & Blockchain
+### 🔗 Web3 & Blockchain (Currently Learning)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23FFCB05.svg?style=for-the-badge&logo=hardhat&logoColor=black)
