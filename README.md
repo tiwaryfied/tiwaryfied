@@ -85,6 +85,7 @@
 
 
 <div>
-<img src = "./profile-3d-contrib/profile-gitblock.svg" alt = "Nahi hua kaam !">
+<h1>Contribution in Git Block Form</h1>
+<img src = "./profile-3d-contrib/profile-gitblock.svg" alt = "3D Contribution Chart">
 </div>
 
