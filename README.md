@@ -89,7 +89,4 @@
 <img src = "./profile-3d-contrib/profile-gitblock.svg" alt = "3D Contribution Chart">
 </div>
 
-<div align="center">
-<h1> Resume Link </h1>
-https://abhinavtiwari.tiiny.site
-</div>
+
