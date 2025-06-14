@@ -88,4 +88,8 @@
 <img src = "./profile-3d-contrib/profile-gitblock.svg" alt = "3D Contribution Chart">
 </div>
 
+<div>
+  <H3>Resumes are boring, so here's a video CV about me</H3>
+</div>
+
 
