@@ -78,7 +78,7 @@
 ### 🔗 Web3 & Blockchain (Currently Learning)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23FFCB05.svg?style=for-the-badge&logo=hardhat&logoColor=black)
+<!-- ![Hardhat](https://img.shields.io/badge/Hardhat-%23FFCB05.svg?style=for-the-badge&logo=hardhat&logoColor=black) -->
 
 </div>
 
