@@ -90,7 +90,7 @@
 </div>
 
 <div>
-  <h1>Some of my articles/blogs</h1>
+  <h3>Some of my articles/blogs</h3>
   <ul><a href="https://medium.com/@_abhinavtiwari_/what-if-websites-had-wallets-03806f7a1bb9">
         What if websites had wallets!?
   </a></ul>
