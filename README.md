@@ -34,15 +34,15 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+<!-- ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) -->
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+<!-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-%23009688.svg?style=for-the-badge&logo=grpc&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-%23FF9800.svg?style=for-the-badge&logo=webrtc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-%2300ACD7.svg?style=for-the-badge&logo=websocket&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23FF9800.svg?style=for-the-badge&logo=webrtc&logoColor=white)-->
+<!-- ![WebSockets](https://img.shields.io/badge/WebSockets-%2300ACD7.svg?style=for-the-badge&logo=websocket&logoColor=white) -->
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23008080.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ### 🗄️ Databases I have worked upon
@@ -57,11 +57,11 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
+<!-- ![Serverless](https://img.shields.io/badge/Serverless-%23FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
 ![AutoScaling](https://img.shields.io/badge/AutoScaling-%23FCA311.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) -->
 
 ### 🔗 Authentication & Security
 ![OAuth](https://img.shields.io/badge/OAuth-%23E3008C.svg?style=for-the-badge&logo=oauth&logoColor=white)
