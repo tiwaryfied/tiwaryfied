@@ -7,9 +7,7 @@
   <p><b>Grinding Leetcode</b></p>
   <p>I build Projects on the Trending Topics on Reddit & Twitter; My Think Tank</p>
 
-  <a href="https://abhinavtiwari.tiiny.site" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-View_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
-  </a>
+  <h2> <a href="https://abhinavtiwari.tiiny.site" target="_blank"><b>VIEW MY RESUME</b></a> </h2>
 
 </div>
 
