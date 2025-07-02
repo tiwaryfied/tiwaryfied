@@ -6,6 +6,11 @@
   <p>Currently learning Web3 and blockchain</p>
   <p><b>Grinding Leetcode</b></p>
   <p>I build Projects on the Trending Topics on Reddit & Twitter; My Think Tank</p>
+
+  <a href="https://abhinavtiwari.tiiny.site" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume-View_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+
 </div>
 
 
