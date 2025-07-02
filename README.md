@@ -7,7 +7,7 @@
   <p><b>Grinding Leetcode</b></p>
   <p>I build Projects on the Trending Topics on Reddit & Twitter; My Think Tank</p>
 
-  <h2> <a href="https://abhinavtiwari.tiiny.site" target="_blank"><b>VIEW MY RESUME</b></a> </h2>
+  <h2> <a href="https://abhinavtiwari.tiiny.site" target="_blank"><b>View my resume</b></a> </h2>
 
 </div>
 
