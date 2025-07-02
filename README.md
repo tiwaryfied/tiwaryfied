@@ -94,6 +94,9 @@
   <ul><a href="https://medium.com/@_abhinavtiwari_/what-if-websites-had-wallets-03806f7a1bb9">
         What if websites had wallets!?
   </a></ul>
+  <ul><a href= "https://dev.to/abhinavtiwari28/the-future-of-finance-decentralized-hedge-funds-3m2a">
+    Decentralised Hedgefund
+</ul>
 
   <p>Read more <a href="https://medium.com/@_abhinavtiwari_">Medium </a> | <a href="https://dev.to/abhinavtiwari28"> Dev.to </a> </p>
 </div>
